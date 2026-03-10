@@ -1,7 +1,6 @@
 # Estado del módulo
 
 ## Pendiente
-- Modelos
 - Repositorios
 - Servicios
 - Controladores
@@ -13,4 +12,4 @@
 - Ninguno
 
 ## Completado
-- Ninguno
+- Modelos
